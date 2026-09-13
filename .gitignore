@@ -1,0 +1,8 @@
+node_modules/
+.npm-cache/
+.next/
+out/
+dist/
+.DS_Store
+*.zip
+website/
