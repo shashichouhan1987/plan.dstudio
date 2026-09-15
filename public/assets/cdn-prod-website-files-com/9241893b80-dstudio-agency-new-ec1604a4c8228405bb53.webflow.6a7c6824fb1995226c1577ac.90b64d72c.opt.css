@@ -1162,7 +1162,7 @@ figcaption {
   background-color: var(--neutral--white);
   border-radius: .75rem;
   flex-flow: column;
-  justify-content: flex-start;
+  justify-content: space-between;
   align-items: flex-start;
   width: 100%;
   max-width: 23.75rem;
